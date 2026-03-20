@@ -1,0 +1,6 @@
+CREATE TABLE Alunos (
+Matricula INTEGER PRIMARY KEY AUTOINCREMENT,
+  Nome TEXT,
+  Idade INTEGER,
+  Turma TEXT
+);
